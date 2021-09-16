@@ -1,0 +1,20 @@
+#clock{
+    width:1280px;
+    text-align:center;
+    margin-top:200px;
+    margin-left:120px;
+    font-size:200px;
+    font-family:cursive;
+    border:black;
+    background-color:lightblue;
+    border-style:groove;
+    
+    
+}
+
+#indicate{
+    margin-left:1280px;
+    margin-top:-195px;
+    font-size:50px;
+    
+}
